@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/rimand/myReactPage/static/css/main.4183ab25.chunk.css",
-    "main.js": "/rimand/myReactPage/static/js/main.5eae56d1.chunk.js",
-    "main.js.map": "/rimand/myReactPage/static/js/main.5eae56d1.chunk.js.map",
-    "runtime-main.js": "/rimand/myReactPage/static/js/runtime-main.723179a8.js",
-    "runtime-main.js.map": "/rimand/myReactPage/static/js/runtime-main.723179a8.js.map",
-    "static/js/2.953a20e3.chunk.js": "/rimand/myReactPage/static/js/2.953a20e3.chunk.js",
-    "static/js/2.953a20e3.chunk.js.map": "/rimand/myReactPage/static/js/2.953a20e3.chunk.js.map",
-    "static/js/3.72d38d94.chunk.js": "/rimand/myReactPage/static/js/3.72d38d94.chunk.js",
-    "static/js/3.72d38d94.chunk.js.map": "/rimand/myReactPage/static/js/3.72d38d94.chunk.js.map",
-    "index.html": "/rimand/myReactPage/index.html",
-    "static/css/main.4183ab25.chunk.css.map": "/rimand/myReactPage/static/css/main.4183ab25.chunk.css.map",
-    "static/js/2.953a20e3.chunk.js.LICENSE.txt": "/rimand/myReactPage/static/js/2.953a20e3.chunk.js.LICENSE.txt"
+    "main.css": "/rimand/myReactPage.git/static/css/main.4183ab25.chunk.css",
+    "main.js": "/rimand/myReactPage.git/static/js/main.5eae56d1.chunk.js",
+    "main.js.map": "/rimand/myReactPage.git/static/js/main.5eae56d1.chunk.js.map",
+    "runtime-main.js": "/rimand/myReactPage.git/static/js/runtime-main.799a7fc8.js",
+    "runtime-main.js.map": "/rimand/myReactPage.git/static/js/runtime-main.799a7fc8.js.map",
+    "static/js/2.953a20e3.chunk.js": "/rimand/myReactPage.git/static/js/2.953a20e3.chunk.js",
+    "static/js/2.953a20e3.chunk.js.map": "/rimand/myReactPage.git/static/js/2.953a20e3.chunk.js.map",
+    "static/js/3.72d38d94.chunk.js": "/rimand/myReactPage.git/static/js/3.72d38d94.chunk.js",
+    "static/js/3.72d38d94.chunk.js.map": "/rimand/myReactPage.git/static/js/3.72d38d94.chunk.js.map",
+    "index.html": "/rimand/myReactPage.git/index.html",
+    "static/css/main.4183ab25.chunk.css.map": "/rimand/myReactPage.git/static/css/main.4183ab25.chunk.css.map",
+    "static/js/2.953a20e3.chunk.js.LICENSE.txt": "/rimand/myReactPage.git/static/js/2.953a20e3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.723179a8.js",
+    "static/js/runtime-main.799a7fc8.js",
     "static/js/2.953a20e3.chunk.js",
     "static/css/main.4183ab25.chunk.css",
     "static/js/main.5eae56d1.chunk.js"
